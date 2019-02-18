@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/iseya_made/Scenes/GamwScene2.unity
+  isLoaded: 1
+  isActive: 1
